@@ -29,7 +29,7 @@ After perusing the Stack Overflow’s developer survey dataset,  I got curious t
 ## File Descriptions <a name="files"></a>
 
 Here I have kept 2 python notebooks:
-1. DiveIntoTheField - To answer first 4 questions
+1. DiveIntoTheField - To answer first 4 questions (EDA)
 2. Salary_Prediction - To find out the answer to the question number 5
 
 ## Licensing <a name="licensing"></a>
