@@ -4,6 +4,7 @@
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Licensing](#licensing)
+5. [Model Optimization](#optimization)
 
 ## Installation <a name="installation"></a>
 
@@ -31,6 +32,10 @@ After perusing the Stack Overflow’s developer survey dataset,  I got curious t
 Here I have kept 2 python notebooks:
 1. DiveIntoTheField - To answer first 4 questions (EDA)
 2. Salary_Prediction - To find out the answer to the question number 5
+
+## Model Optimization <a name="optimization"></a>
+
+Optimization approach I followed is described in the post [here](https://goelprateek.medium.com/is-my-model-optimised-f1cf2fec8527).
 
 ## Licensing <a name="licensing"></a>
 
