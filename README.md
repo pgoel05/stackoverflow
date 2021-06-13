@@ -3,8 +3,9 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Model Optimization](#optimization)
-5. [Licensing](#licensing)
+4. [Results](#result)
+5. [Model Optimization](#optimization)
+6. [Licensing](#licensing)
 
 
 ## Installation <a name="installation"></a>
@@ -32,6 +33,10 @@ After perusing the Stack Overflow’s developer survey dataset,  I got curious t
 Here I have kept 2 python notebooks:
 1. DiveIntoTheField - To answer first 4 questions (EDA)
 2. Salary_Prediction - To predict salary based on given features
+
+## Results <a name="result"></a>
+
+The main findings of the analysis could be found in the post [here](https://goelprateek.medium.com/what-does-it-take-to-become-a-developer-477b13116ddf)
 
 ## Model Optimization <a name="optimization"></a>
 
