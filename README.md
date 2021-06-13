@@ -3,8 +3,9 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Licensing](#licensing)
-5. [Model Optimization](#optimization)
+4. [Model Optimization](#optimization)
+5. [Licensing](#licensing)
+
 
 ## Installation <a name="installation"></a>
 
@@ -25,13 +26,12 @@ After perusing the Stack Overflow’s developer survey dataset,  I got curious t
 2. What are the salary trends?
 3. What mode of formal education plays a vital role?
 4. Did bootcamp have any impact on developer's career?
-5. Can we predict the salary based on given features?
 
 ## File Descriptions <a name="files"></a>
 
 Here I have kept 2 python notebooks:
 1. DiveIntoTheField - To answer first 4 questions (EDA)
-2. Salary_Prediction - To find out the answer to the question number 5
+2. Salary_Prediction - To predict salary based on given features
 
 ## Model Optimization <a name="optimization"></a>
 
